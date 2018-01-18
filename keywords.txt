@@ -1,0 +1,8 @@
+SMF KEYWORD1
+compass	KEYWORD1
+hexArray	KEYWORD1
+setInstrument KEYWORD2
+addNote	KEYWORD2
+noteOn	KEYWORD2
+noteOff 	KEYWORD2
+getFileCode	KEYWORD2
